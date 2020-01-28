@@ -14,7 +14,18 @@ The project will be improved regularly. You will have temporary updates.
   * Routing in Angular
   * Extending the API
   * Building a great looking User Interface
-  ** test
+  * Updating Ressources
+  * Adding Photo upload functionality to the application
+  * Reactive Forms in Angular
+  * Action Filters in ASP.NET Core
+  * Paging, Sorting and Filtering
+  * Adding the 'Likes' functionality from start to finish
+  * Add a private messaging system to the application
+  * Publishing (new)
+  * Publishing - Deprecated - Please see new Publishing section
+  * Course Updates - August 2019
+  * Bonus - Publishing the application to Azure
+  * Bonus - Identity and Role Management
   
   
 ## What Will I Learn?
