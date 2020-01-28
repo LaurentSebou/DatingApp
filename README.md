@@ -3,7 +3,7 @@ DatingApp is a learning project for learning how to [build an app with ASPNET Co
 I would like to share this learning with you in order to improve the content of this project.
 
 The project will be improved regularly. You will have temporary updates.
-![](header.png)
+![](header.jpg)
 
 ## Content
   * Building a Walking Skeleton
